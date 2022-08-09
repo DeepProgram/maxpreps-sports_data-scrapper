@@ -19,5 +19,5 @@ To deploy this project run
 
 ## Features
 
-- It will output the csv file of batting and pitching (Can be customized for rest two sections)
+- It will output the player stats in csv file of batting and pitching (Can be customized for rest two sections)
 
