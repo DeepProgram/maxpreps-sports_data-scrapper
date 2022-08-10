@@ -76,3 +76,5 @@ if __name__ == "__main__":
                     rows_list = sorted(rows_list, key=lambda x: x[0])  # Sorting Based On Position
                     df = pd.DataFrame(rows_list, columns=header_list)
                     df.to_csv(file_name + ".csv")
+            else:
+                print(f"\n{group['name']} Stats Is Excluded [Check get_selected_groups() Function To Include It]....")
