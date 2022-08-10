@@ -3,14 +3,20 @@ This script can get the batting and pitching data of a baseball roseter game fro
 
 
 
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/DeepProgram/maxpreps-sports_data-scrapper/raw/main/Screenshot_20220809_221322.png)
 
 
+## Setup
+🔴 First run this command in terminal or command prompt to install all requirements
+```bash
+python3 setup.py
+```
 ## Deployment
 
-To deploy this project run
+To deploy this project run below command
 
 ```bash
   pyhon3 main.py
@@ -19,5 +25,7 @@ To deploy this project run
 
 ## Features
 
-- It will output the player stats in csv file of batting and pitching (Can be customized for rest two sections)
+- It will output the csv file of batting and pitching (Can be customized for rest two sections)
+
+
 
