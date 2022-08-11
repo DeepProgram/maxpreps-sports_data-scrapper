@@ -1,4 +1,4 @@
-# maxpreps-sports_data-scrapper
+# Maxpreps Sports Data Scrapper
 This script can get the batting and pitching data of a baseball roseter game from maxpreps website
 
 
