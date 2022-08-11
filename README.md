@@ -6,7 +6,7 @@ This script can get the batting and pitching data of a baseball roseter game fro
 
 ## Screenshots
 
-![App Screenshot](https://github.com/DeepProgram/maxpreps-sports_data-scrapper/raw/main/Screenshot_20220809_221322.png)
+![App Screenshot](https://github.com/DeepProgram/maxpreps-sports_data-scrapper/raw/screenshot/maxpreps-terminal.png)
 
 
 ## Setup
